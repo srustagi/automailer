@@ -1,0 +1,6 @@
+Hi all,
+
+This is a test message. My name is {name}, and I'm a {major} major at {school}. I'm graduating in {grad_year}. You can contact me at {email}, and check out some of my favorite music at {spotify}.
+
+Best regards,
+Shiv
