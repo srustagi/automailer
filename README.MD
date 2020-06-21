@@ -47,7 +47,7 @@ If you run the comnmand in its barest form (assuming you use default filenames a
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`-l`                 Include this option to log the successful sends to a text file.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`-x`                 Disable test mode. See 'EmailMessage.py' for details.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`-x`                 Disable test mode. See `EmailMessage.py` for details.
 
 # Dependencies
 None...... for now.......
